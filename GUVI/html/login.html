@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style type="text/css">
+      .row input{
+        height: 45px;
+      }
+      button:hover{
+        background: green;
+        color: white;
+      }
+  </style>
+  <link href="../css/login.scss" rel="stylesheet"/>
+  <script type="text/javascript" src="../js/login.js">
+  </script>
+</head>
+<body>
+<div class="container"  style=" padding:40px;" >   
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6" " id="containbox" >
+            <div class="container-fluid" style="color: yellow;background-color: #283593;box-shadow: 0px 0px 30px 0px #888888; border-radius:5px;"><center ><h3>LOG-IN</h3></center><br></div>
+            <br><br><br>
+            <div class="row form-group">
+                <div class="col-lg-3 col-md-2 col-sm-2">
+                </div>
+                <div class="col-lg-6 col-md-8 col-sm-8">
+                    
+           <h5> EMAIL ID</h5>   <input type="email" name="" id="email" class="form-control" placeholder="@gmail.com"
+           required /><br>
+             <h5>PASSWORD</h5><input type="password" name="" id="pass" class="form-control" placeholder="Ex: ssword14"
+             required /><br>
+             <span id="response"></span>
+             <br>
+             <button onclick='window.location.href="../html/register.html"' id="btn1" style="width: 40%;float:left;"  class="btn btn-primary">GO TO Register
+            </button>
+      
+             <button type="submit" value="Submit" id="btn" style="float:right"class="btn btn-primary">Login---></button>
+             
+            
+         </div>
+                         
+            <div class="col-lg-3 col-md-2 col-sm-2"></div>
+            
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-3">
+        </div>
+
+    </div>
+</div>
+</body>
+</html>

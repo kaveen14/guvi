@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Registration page</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<style type="text/css">
+	.row input{
+		height: 45px;
+	}
+</style>
+
+<script type="text/javascript" src="../js/register.js">
+	
+</script>
+<link href="../css/register.scss" rel="stylesheet"/>
+<body>
+<div class="container-fluid" id="contain">
+	<center ><h2>REGISTERATION FORM</h2></center>
+</div>
+
+<br><br><br><!--<span id="response"></span>-->
+<br>
+<div class="container-fluid">
+	<div class="row"> 
+	<div class="col-lg-4 col-md-3 col-sm-3">
+		
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-6">
+		<div id="registration_form" class="form-horizontal"><!--form-->
+		<!--<span id="response"></span>-->
+    <input type="text" name="name" id="name" placeholder="Name" class="form-control" required /><br>
+	<input type="date" name="dob" id="dob" placeholder="Date Of Birth" class="form-control" required/><br>
+	<input type="number" name="age" id="age" placeholder="Age" class="form-control" required/><br>
+	<select name="gender" id="gender" placeholder="Gender" class="form-control" required >
+		<option value="Male">Male</option>
+		<option value="Female">Female</option>
+		<option value="Others">Others</option>
+	</select><br>
+	<input type="text" name="nation" id="nation" placeholder="Nationality" class="form-control" required/><br>
+	<input type="text" name="qualify" id="qualify" placeholder="Qualification" class="form-control" required/><br>
+	<input type="number" name="mobile" id="mobile" placeholder="Mobile Number" class="form-control" required/><br>
+	<input type="email" name="email" id="email" placeholder="Email id" class="form-control" required/><br>
+	<input type="password" name="pass" id="pass" placeholder="Password" class="form-control" required/><br>
+	<textarea type="text" rows="4" cols="50" name="address" id="address" placeholder="Address..." class="form-control" required></textarea><br>
+	<input type="text" name="state" id="state" placeholder="State" class="form-control" required/><br>
+	<input type="text" name="city" id="city" placeholder="City" class="form-control" required/><br>
+	<input type="number" name="pincode" id="pincode" placeholder="pincode" class="form-control" required/><br>
+	
+	<div id="message"></div>
+	
+		<button onclick='window.location.href="../html/login.html"' class="btn btn-primary" id="btn1" >Go to Login</button>
+		<button class="btn btn-primary" id="btn" value="Submit">Submit</button>
+		<br><Br><br><br>
+	</div> <!--form-->
+	</div>
+	<div class="col-lg-4 col-md-3 col-sm-3">
+	
+	<br>
+	<script src="js/jquery-1.12.4-jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+</div>
+</body>
+</html>
