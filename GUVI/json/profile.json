@@ -1,53 +1,5 @@
 [
     {
-        "name": "kaveenkumar",
-        "dob": "0000-00-00",
-        "age": "21",
-        "gender": "Male",
-        "nation": "Indian",
-        "qualify": "M.Sc.Computer Science",
-        "mobile": "9629894628",
-        "email": "kaveenkumarc@gmail.com",
-        "pass": "kaveen..14",
-        "address": "1\/27 East street \n",
-        "state": "Tamil Nadu",
-        "city": "Coimbatore",
-        "pincode": "641037",
-        "photo": " "
-    },
-    {
-        "name": "kaveenkumar",
-        "dob": "0000-00-00",
-        "age": "21",
-        "gender": "Male",
-        "nation": "Indian",
-        "qualify": "M.Sc.Computer Science",
-        "mobile": "9629894628",
-        "email": "kaveenkumarc@gmail.com",
-        "pass": "kaveen..14",
-        "address": "1\/27 East street \n",
-        "state": "Tamil Nadu",
-        "city": "Coimbatore",
-        "pincode": "641037",
-        "photo": " "
-    },
-    {
-        "name": "kaveenkumar",
-        "dob": "0000-00-00",
-        "age": "21",
-        "gender": "Male",
-        "nation": "Indian",
-        "qualify": "M.Sc.Computer Science",
-        "mobile": "9629894628",
-        "email": "kaveenkumarc@gmail.com",
-        "pass": "kaveen..14",
-        "address": "1\/27 East street \n",
-        "state": "Tamil Nadu",
-        "city": "Coimbatore",
-        "pincode": "641037",
-        "photo": " "
-    },
-    {
         "name": "sekar",
         "dob": "2022-11-01",
         "age": "21",
@@ -60,8 +12,7 @@
         "address": "1\/27 East street,\nputhanampatti",
         "state": "Tamil Nadu",
         "city": "coimbatore",
-        "pincode": "641014",
-        "photo": " "
+        "pincode": "641014"
     },
     {
         "name": "Abinash",
@@ -76,8 +27,7 @@
         "address": "188 north street",
         "state": "Tamil Nadu",
         "city": "Salem",
-        "pincode": "610024",
-        "photo": " "
+        "pincode": "610024"
     },
     {
         "name": "kaveenkumar",
