@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6367aed449090000cb003b45"
+  },
+  "name": "Abinash",
+  "dob": "2001-02-12",
+  "age": "21",
+  "gender": "Male",
+  "nation": "Indian",
+  "qualify": "B.Sc.Computer science",
+  "mobile": "6380541996",
+  "email": "abinash14@gmail.com",
+  "pass": "abinash14",
+  "address": "188 north street",
+  "state": "Tamil Nadu",
+  "city": "Salem",
+  "pincode": "610024",
+  "photo": " "
+},{
+  "_id": {
+    "$oid": "6367e00949090000cb003b66"
+  },
+  "name": "sekar",
+  "dob": "2022-11-01",
+  "age": "21",
+  "gender": "Male",
+  "nation": "Indian",
+  "qualify": "M.Sc.computer science",
+  "mobile": "9629894628",
+  "email": "sekar14@gmail.com",
+  "pass": "sekar14",
+  "address": "1/27 East street,\nputhanampatti",
+  "state": "Tamil Nadu",
+  "city": "coimbatore",
+  "pincode": "641014",
+  "photo": " "
+},{
+  "_id": {
+    "$oid": "6368969d101f0000a60014c3"
+  },
+  "name": "kaveenkumar",
+  "dob": "2001-03-09",
+  "age": "21",
+  "gender": "Male",
+  "nation": "Indian",
+  "qualify": "M.Sc.computer science",
+  "mobile": "9629894628",
+  "email": "kaveensekar1456@gmail.com",
+  "pass": "kaveen1456",
+  "address": "kattur street",
+  "state": "Tamil Nadu",
+  "city": "coimbatore",
+  "pincode": "641031"
+}]
